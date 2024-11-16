@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073736183358",
+    "project_id": "ecosmart-app-new",
+    "storage_bucket": "ecosmart-app-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073736183358:android:9fdb124fedc4286fc1eb6f",
+        "android_client_info": {
+          "package_name": "com.sathyateja.ecosmartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xxcdIuLaLWbtC9bGC4Wu1O9c-Q6IqVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
